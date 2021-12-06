@@ -5,7 +5,7 @@
 # Maintainer : @XelXen
 
 # Name of the device (Default = rWrite Generic)
-device_name = ""
+device_name = "generic"
 
 # Device codename (Default = generic)
 device_codename = ""
